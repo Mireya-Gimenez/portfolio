@@ -38,6 +38,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
+  border: 3px solid red;
 }
 
 .nav-links {
